@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-CLASSIFICAZIONE DELLA RAZZA FELINA – HackersGen / Sorint.lab
+CLASSIFICAZIONE DELLA RAZZA FELINA 
 Versione finale – metodo supervisionato corretto, senza forzature dei target.
 """
 
